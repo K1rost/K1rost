@@ -1,0 +1,12 @@
+public class What(){
+    public void addOne(int num){
+        num++;
+    }
+    public void main() {
+        System.out.println("HelloWorld");
+        /*
+        Hello, this is my first github repository
+        Hope I can make a big progress in Science and Technology!
+         */
+    }
+}
