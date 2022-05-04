@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b180b65-f472-48fe-8d8a-4d69313b1773" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/githubFreshMan/What" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7b180b65-f472-48fe-8d8a-4d69313b1773" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +32,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647524407968</updated>
-      <workItem from="1647524409665" duration="843000" />
+      <workItem from="1647524409665" duration="1603000" />
+      <workItem from="1649429534695" duration="33000" />
+      <workItem from="1649429581135" duration="75000" />
+      <workItem from="1650536034096" duration="45000" />
+      <workItem from="1650536093830" duration="14000" />
+      <workItem from="1651490351503" duration="79000" />
     </task>
     <servers />
   </component>
@@ -64,5 +66,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
